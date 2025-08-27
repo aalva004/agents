@@ -1,0 +1,9 @@
+﻿{
+  "agents": [
+    {
+      "name": "Echo Agent",
+      "description": "Repeats your input.",
+      "url": "https://raw.githubusercontent.com/aalva004/agents/main/agents/echo_agent.py"
+    }
+  ]
+}
