@@ -4,6 +4,21 @@
       "name": "Echo Agent",
       "description": "Repeats your input.",
       "url": "https://raw.githubusercontent.com/aalva004/agents/main/agents/echo_agent.py"
+    },
+    {
+      "name": "Time Agent",
+      "description": "Gets current time and date information.",
+      "url": "file:///C:/dev/agents/agents/time_agent.py"
+    },
+    {
+      "name": "Date Agent", 
+      "description": "Provides current date and date calculations.",
+      "url": "file:///C:/dev/agents/agents/date_agent.py"
+    },
+    {
+      "name": "Directory Agent",
+      "description": "Shows directory structure and file listings.",
+      "url": "file:///C:/dev/agents/agents/directory_agent.py"
     }
   ]
 }
